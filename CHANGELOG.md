@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-17: Deploy on Railway button
+
+- README: added the Deploy on Railway button for the published template `local-deep-researc-1`. No change to the services or images.
+
 ## 2026-11-17: Local Deep Research 2.0.1
 
 First release of the template.
