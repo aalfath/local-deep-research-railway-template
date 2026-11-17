@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/local-deep-researc-1?utm_medium=integration&utm_source=button&utm_campaign=local-deep-research)
+
 # Deploy and Host Local Deep Research on Railway
 
 Local Deep Research is an open-source AI research assistant. You ask a question, and it plans searches, reads the sources it finds on the web, arXiv, PubMed, Wikipedia and your own documents, and writes a cited report. It works with cloud LLMs (OpenAI, Anthropic, Google, OpenRouter) and with self-hosted models served by Ollama or llama.cpp.
